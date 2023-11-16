@@ -1,0 +1,9 @@
+
+
+python-socketio==5.10.0
+
+requests==2.25.1
+
+simple-websocket==1.0.0
+
+websocket-client==1.6.4
